@@ -1,14 +1,11 @@
-# App name
+# localStorage Value Checker
 
-[brief description of the app]
+Display value set for 'exampleString' key in localStorage if value present
 
-### The following information is displayed:
+If nothing yet set in localStorage for the 'exampleString' key - display input field to set the value
 
-* info1
-* info2
-* info3
+There is the option to reset the value of localStorage via a button click
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+### Demo
 
-### Screenshot(s):
-[put your screenshots down here.]
+![](http://g.recordit.co/mzfBeoDx22.gif)
